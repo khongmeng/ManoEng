@@ -1,0 +1,9 @@
+all parts are in mm. here are size of each part roughly:
+
+Jetson top: 107 x 97
+Jetson bottom: 107 x 97
+Arm: 48 (length)
+bottom bolt: 18.6 (length)
+top bolt: 28.6 (length)
+cam holder back: 47 x 47
+cam holder front: 47 x 47
