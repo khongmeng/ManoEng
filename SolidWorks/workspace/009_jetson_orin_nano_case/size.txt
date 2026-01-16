@@ -7,3 +7,5 @@ bottom bolt: 18.6 (length)
 top bolt: 28.6 (length)
 cam holder back: 47 x 47
 cam holder front: 47 x 47
+foot bolt: 18.7 (length)
+base: 57 (outer diameter of the main base, not including three whole around it)
